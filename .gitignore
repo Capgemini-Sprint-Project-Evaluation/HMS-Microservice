@@ -42,6 +42,12 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
+
+#vs code releted
+.vscode/
+
+
+
 # Gradle
 .gradle/
 gradlew
