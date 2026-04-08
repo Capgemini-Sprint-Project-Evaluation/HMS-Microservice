@@ -1,0 +1,2 @@
+-- SQL script for HMS Database Initialization
+-- Databases and tables will be defined here.
