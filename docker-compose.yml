@@ -1,0 +1,6 @@
+# Docker Compose for HMS Microservices
+# This file will be populated with service configurations later.
+version: '3.8'
+
+services:
+  # Services will be added here
