@@ -43,7 +43,7 @@ buildNumber.properties
 .mvn/timing.properties
 
 
-#vs code 
+#vs code releted
 .vscode/
 
 
